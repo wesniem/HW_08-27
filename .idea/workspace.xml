@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75caffc1-f082-4f4e-a5a2-0a7174e186c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/wesniemarcelin/ProblemEight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/wesniemarcelin/ProblemNine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/wesniemarcelin/ProblemSeven.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/nyc/c4q/wesniemarcelin/ProblemSix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="75caffc1-f082-4f4e-a5a2-0a7174e186c2" name="Default" comment="" />
     <ignored path="HW_08-27.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -177,8 +171,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
-    <option name="y" value="397" />
+    <option name="x" value="295" />
+    <option name="y" value="204" />
     <option name="width" value="793" />
     <option name="height" value="649" />
   </component>
@@ -600,6 +594,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="75caffc1-f082-4f4e-a5a2-0a7174e186c2" name="Default" comment="" />
@@ -611,7 +608,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="397" width="793" height="649" extended-state="0" />
+    <frame x="295" y="204" width="793" height="649" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
